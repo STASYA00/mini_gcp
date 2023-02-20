@@ -175,7 +175,7 @@ A UML of the framework will be added soon to provide more clarity.
 
 ### Future work
 
-- [+] Add visualization notebook
+- [x] Add visualization notebook
 - [ ] Add explanation notebook
 - [ ] Add hyperparameter tuning module;
 - [ ] Add logging of recepts as a separate table;
