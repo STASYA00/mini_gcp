@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/STASYA00/mini_gcp">
-    <img src="assets/logo.svg" alt="Logo" width="80" height="80">
+    <img src="assets/logo.svg" alt="Logo" width="120" height="60">
   </a>
 
   <h3 align="center" Mini GCP </h3>
