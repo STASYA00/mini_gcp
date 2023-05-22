@@ -9,6 +9,7 @@ class CleanConfig(metaclass=SingletonMeta):
     def __init__(self) -> None:
 
         self.FILENAME = "../None.csv"
+        self.MODEL_REGISTRY = "../models"
         self.CATEGORICAL_COLS = [
             "merchant_group",
             "name_in_email",
